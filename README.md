@@ -85,8 +85,9 @@ A modern, responsive hotel website built with TypeScript, Tailwind CSS, and Vite
 
 | View              | Screenshot               |
 |------------------|--------------------------|
-| Home Page        | *(Insert Image Here)*    |
-| Responsive Layout| *(Insert Image Here)*    |
+| Home Page        | ![](screenshots/home.png)    |
+| Responsive Layout| ![](screenshots/mobile.png) |
+
 
 
 ---
